@@ -1,4 +1,11 @@
-## Hi there 👋
+# Добро пожаловать👋
+
+## 💼 Приложение для поиска вакансий: 
+
+[FindYourJob](https://github.com/NekhoroshkinaElena/FindYourJob)
+
+## 🎧 Приложение для поиска и прослушивания музыки: 
+[PlaylistMaker](https://github.com/NekhoroshkinaElena/PlaylistMaker)
 
 <!--
 **NekhoroshkinaElena/NekhoroshkinaElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
